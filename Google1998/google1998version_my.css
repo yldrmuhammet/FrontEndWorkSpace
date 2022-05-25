@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+div #images {
+    width: 351;
+    height: 113;
+}
+
+table {
+    border: 0;
+    width: 100%;
+
+}
+
+#fb {
+    background-color: #EEEEEE;
+    
+}
+
+#sb {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+#tb {
+    background-color: #70CCC2;
+    text-align: center;
+}
+#db {
+   text-align: center;
+   background-color: #62B3AA;
+}
+p {
+    font-size: -1;
+    text-align: center;
+
+}
