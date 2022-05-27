@@ -1,4 +1,4 @@
-## Muhammet YILDIRIM İnsertion Short Projesi
+## Muhammet YILDIRIM İnsertion Sort Projesi
 
 ## Patika Linkim 
 
